@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT Python-Django-Mpesa-API-Integration-master.wsgi:application
+web: waitress-serve --port=$PORT mysite.wsgi:application
